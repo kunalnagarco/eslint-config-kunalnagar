@@ -6,9 +6,18 @@ jobs:
       - image: circleci/node:14.16.0
     steps:
       - checkout
+      - restore_cache:
+          name: Restore Yarn Package Cache
+          keys:
+            - yarn-packages-{{ checksum "yarn.lock" }}
       - run:
-          name: Install dependencies
-          command: npm install
+          name: Install Dependencies
+          command: yarn install --frozen-lockfile --cache-folder ~/.cache/yarn
+      - save_cache:
+          name: Save Yarn Package Cache
+          key: yarn-packages-{{ checksum "yarn.lock" }}
+          paths:
+            - ~/.cache/yarn
       - persist_to_workspace:
           root: ~/project
           paths: .
@@ -23,7 +32,7 @@ jobs:
           command: echo "//registry.npmjs.org/:_authToken=${TOKEN_NPM_RW}" >> .npmrc
       - run:
           name: Publish package
-          command: npm publish
+          command: yarn publish
 
 workflows:
   build-deploy-workflow:
