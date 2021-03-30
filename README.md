@@ -4,10 +4,10 @@
 
 An ESLint shareable config that lints React projects with the following configuration:
 
-- ESLint
-- Prettier
-- React
-- TypeScript
+  - ESLint
+  - Prettier
+  - React
+  - TypeScript
 
 ## 🛠 Installation
 
@@ -15,15 +15,15 @@ An ESLint shareable config that lints React projects with the following configur
 
 Add the package to your `devDependencies`:
 
-```
-$ npm install eslint-config-kunalnagar --save-dev
+```bash
+npm install eslint-config-kunalnagar --save-dev
 ```
 
 ### Step 2
 
 Install the `peerDependencies` using:
 
-```
+```bash
 npx install-peerdeps eslint-config-kunalnagar --dev
 ```
 
