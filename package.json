@@ -31,7 +31,10 @@
     ]
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "lint-staged": "^11.0.0",
+    "sort-package-json": "^1.50.0"
+  },
   "peerDependencies": {
     "eslint-config-airbnb": "6.x"
   }
