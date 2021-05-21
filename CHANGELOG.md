@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.2](https://github.com/kunalnagarco/javascript/compare/v0.1.1...v0.1.2) (2021-05-21)
+
+
+### Chores
+
+* **deps:** pin dependencies ([6580416](https://github.com/kunalnagarco/javascript/commit/6580416c5c06061d0f42afa2c842739aeaa8f64a))
+
 ### [0.1.1](https://github.com/kunalnagarco/javascript/compare/v0.1.0...v0.1.1) (2021-05-21)
 
 
