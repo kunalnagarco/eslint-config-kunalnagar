@@ -2,6 +2,9 @@
   "name": "eslint-config-kunalnagarco",
   "version": "1.0.0",
   "description": "An ESLint configuration for use across javascript projects",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "eslint",
     "eslint-config",
