@@ -1,13 +1,8 @@
-# ⚛️ eslint-config-kunalnagar
+# ⚛️ eslint-config-kunalnagarco
 
-![CircleCI](https://img.shields.io/circleci/build/github/kunalnagar/eslint-config-kunalnagar/develop?token=6961e38f0ab710cad0cbba48bf771ee3bdb2e225) [![npm](https://img.shields.io/npm/v/eslint-config-kunalnagar?color=blue)](https://www.npmjs.com/package/eslint-config-kunalnagar)
+![CircleCI](https://img.shields.io/circleci/build/github/kunalnagarco/javascript/master?token=6961e38f0ab710cad0cbba48bf771ee3bdb2e225) [![npm](https://img.shields.io/npm/v/eslint-config-kunalnagarco?color=blue)](https://www.npmjs.com/package/eslint-config-kunalnagarco)
 
-An ESLint shareable config that lints React projects with the following configuration:
-
-- ESLint
-- Prettier
-- React
-- TypeScript
+An ESLint shareable config that extends `eslint-config-airbnb` with a few custom options.
 
 ## 🛠 Installation
 
@@ -16,7 +11,7 @@ An ESLint shareable config that lints React projects with the following configur
 Add the package to your `devDependencies`:
 
 ```
-$ npm install eslint-config-kunalnagar --save-dev
+$ npm install eslint-config-kunalnagarco --save-dev
 ```
 
 ### Step 2
@@ -24,7 +19,7 @@ $ npm install eslint-config-kunalnagar --save-dev
 Install the `peerDependencies` using:
 
 ```
-npx install-peerdeps eslint-config-kunalnagar --dev
+npx install-peerdeps eslint-config-kunalnagarco --dev
 ```
 
 ## 💻 Usage
@@ -33,7 +28,7 @@ Add it to the `extends` section of your `.eslintrc` configuration file.
 
 ```json
 {
-  "extends": ["eslint-config-kunalnagar"]
+  "extends": ["kunalnagarco"]
 }
 ```
 
@@ -57,4 +52,4 @@ If you want you can configure/override rules as well:
 
 ## 👨‍💻 Support
 
-Please create a new issue [here](https://github.com/kunalnagar/eslint-config-kunalnagar/issues)
+Please create a new issue [here](https://github.com/kunalnagarco/javascript/issues)

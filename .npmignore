@@ -1,8 +1,1 @@
-node_modules/
-.circleci/
-.vscode/
-
-.prettierrc.js
-.gitignore
-.nvmrc
-yarn.lock
+*.tgz
