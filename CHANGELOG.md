@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://github.com/kunalnagarco/javascript/compare/v0.1.0...v0.1.1) (2021-05-21)
+
+
+### Chores
+
+* Update docs ([aa85260](https://github.com/kunalnagarco/javascript/commit/aa852602f3a649152ecc31b786508847ac725247))
+
 ## [0.1.0](https://github.com/kunalnagarco/javascript/compare/v0.0.9...v0.1.0) (2021-05-21)
 
 
