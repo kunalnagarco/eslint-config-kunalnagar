@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-kunalnagarco",
+  "name": "@kunalnagarco/eslint-config",
   "version": "1.0.0",
   "description": "An ESLint configuration for use across javascript projects",
   "files": [
@@ -53,7 +53,7 @@
     "access": "public"
   },
   "scripts": {
-    "release": "semantic-release --dry-run"
+    "release": "semantic-release"
   },
   "repository": {
     "type": "git",

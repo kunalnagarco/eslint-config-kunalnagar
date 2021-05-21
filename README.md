@@ -1,6 +1,6 @@
 # ⚛️ eslint-config-kunalnagarco
 
-![CircleCI](https://img.shields.io/circleci/build/github/kunalnagarco/javascript/master?token=6961e38f0ab710cad0cbba48bf771ee3bdb2e225) [![npm](https://img.shields.io/npm/v/eslint-config-kunalnagarco?color=blue)](https://www.npmjs.com/package/eslint-config-kunalnagarco)
+![CircleCI](https://img.shields.io/circleci/build/github/kunalnagarco/javascript/master?token=6961e38f0ab710cad0cbba48bf771ee3bdb2e225) [![npm](https://img.shields.io/npm/v/@kunalnagarco/eslint-config?color=blue)](https://www.npmjs.com/package/@kunalnagarco/eslint-config)
 
 An ESLint shareable config that extends `eslint-config-airbnb` with a few custom options.
 
