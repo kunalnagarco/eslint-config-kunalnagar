@@ -4,7 +4,7 @@
 
 An ESLint shareable config that extends `eslint-config-airbnb` with a few custom options.
 
-## 🛠 Installation
+## 🛠 Install
 
 ### Step 1
 
