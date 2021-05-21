@@ -37,5 +37,8 @@
   },
   "peerDependencies": {
     "eslint-config-airbnb": "6.x"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

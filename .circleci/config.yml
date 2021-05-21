@@ -9,6 +9,9 @@ jobs:
       - run:
           name: Install Dependencies
           command: npm ci
+      - run:
+          name: Release pre-check
+          command: npm pack
       - persist_to_workspace:
           root: ~/project
           paths: .
