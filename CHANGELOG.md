@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.8](https://github.com/kunalnagarco/javascript/compare/v0.1.7...v0.1.8) (2021-05-22)
+
+
+### Chores
+
+* **deps:** roll back dependency eslint-config-airbnb-typescript-prettier to 4.x ([#79](https://github.com/kunalnagarco/javascript/issues/79)) ([58f92f1](https://github.com/kunalnagarco/javascript/commit/58f92f11eeca0f82fcf428aba9414f767ac077f8))
+
 ### [0.1.7](https://github.com/kunalnagarco/javascript/compare/v0.1.6...v0.1.7) (2021-05-22)
 
 
