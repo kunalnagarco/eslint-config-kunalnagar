@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.4](https://github.com/kunalnagarco/javascript/compare/v0.1.3...v0.1.4) (2021-05-22)
+
+
+### Chores
+
+* Use AirBnb TypeScript ([fae92ba](https://github.com/kunalnagarco/javascript/commit/fae92ba6217745a6dc03e383de73195fc126146a))
+
 ### [0.1.3](https://github.com/kunalnagarco/javascript/compare/v0.1.2...v0.1.3) (2021-05-22)
 
 
