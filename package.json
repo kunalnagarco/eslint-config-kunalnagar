@@ -47,7 +47,7 @@
     "sort-package-json": "1.50.0"
   },
   "peerDependencies": {
-    "eslint-config-airbnb": "18.x"
+    "eslint-config-airbnb-typescript": "12.x"
   },
   "publishConfig": {
     "access": "public"
