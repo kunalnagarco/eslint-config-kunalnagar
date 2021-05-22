@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.7](https://github.com/kunalnagarco/javascript/compare/v0.1.6...v0.1.7) (2021-05-22)
+
+
+### Chores
+
+* Add missing peer dep ([2e13f43](https://github.com/kunalnagarco/javascript/commit/2e13f43c315a5d9721792953f7a32cba501a85e4))
+
 ### [0.1.6](https://github.com/kunalnagarco/javascript/compare/v0.1.5...v0.1.6) (2021-05-22)
 
 
