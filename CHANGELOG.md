@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.3](https://github.com/kunalnagarco/javascript/compare/v0.1.2...v0.1.3) (2021-05-22)
+
+
+### Chores
+
+* Update peer deps ([7cabdf6](https://github.com/kunalnagarco/javascript/commit/7cabdf676bcc390ba41bba3d79e7566654408e37))
+
 ### [0.1.2](https://github.com/kunalnagarco/javascript/compare/v0.1.1...v0.1.2) (2021-05-21)
 
 
