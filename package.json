@@ -47,7 +47,12 @@
     "sort-package-json": "1.50.0"
   },
   "peerDependencies": {
-    "eslint-config-airbnb-typescript": "12.x"
+    "eslint-config-airbnb-typescript": "12.x",
+    "eslint-plugin-import": "2.x",
+    "eslint-plugin-jsx-a11y": "6.x",
+    "eslint-plugin-react": "7.x",
+    "eslint-plugin-react-hooks": "4.x",
+    "@typescript-eslint/eslint-plugin": "4.x"
   },
   "publishConfig": {
     "access": "public"
