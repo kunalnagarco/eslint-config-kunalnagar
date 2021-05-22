@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.5](https://github.com/kunalnagarco/javascript/compare/v0.1.4...v0.1.5) (2021-05-22)
+
+
+### Chores
+
+* Add peer deps ([f944a52](https://github.com/kunalnagarco/javascript/commit/f944a528be986fbf6377e57e9e505ca3ea6c35ef))
+
 ### [0.1.4](https://github.com/kunalnagarco/javascript/compare/v0.1.3...v0.1.4) (2021-05-22)
 
 
