@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.6](https://github.com/kunalnagarco/javascript/compare/v0.1.5...v0.1.6) (2021-05-22)
+
+
+### Chores
+
+* Add Prettier ([0892afc](https://github.com/kunalnagarco/javascript/commit/0892afcb99ea932155e13fe22b689a9b6514e929))
+
 ### [0.1.5](https://github.com/kunalnagarco/javascript/compare/v0.1.4...v0.1.5) (2021-05-22)
 
 
