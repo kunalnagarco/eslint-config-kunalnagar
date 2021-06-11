@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.10](https://github.com/kunalnagarco/javascript/compare/v0.1.9...v0.1.10) (2021-06-11)
+
+
+### Chores
+
+* **deps:** update dependency @semantic-release/release-notes-generator to v9.0.3 ([ff9f39d](https://github.com/kunalnagarco/javascript/commit/ff9f39d9b5680f42e5715d2efac6b858e15d73be))
+
 ### [0.1.9](https://github.com/kunalnagarco/javascript/compare/v0.1.8...v0.1.9) (2021-06-08)
 
 
