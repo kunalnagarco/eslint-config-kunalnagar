@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.13](https://github.com/kunalnagarco/javascript/compare/v0.1.12...v0.1.13) (2021-06-15)
+
+
+### Chores
+
+* **deps:** update node.js to v14.17.1 ([7aedc1e](https://github.com/kunalnagarco/javascript/commit/7aedc1e010f60cc215baa357e293456ff12d4ed6))
+
 ### [0.1.12](https://github.com/kunalnagarco/javascript/compare/v0.1.11...v0.1.12) (2021-06-15)
 
 
