@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.1.22](https://github.com/kunalnagarco/javascript/compare/v0.1.21...v0.1.22) (2021-07-05)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#89](https://github.com/kunalnagarco/javascript/issues/89)) ([7edeb56](https://github.com/kunalnagarco/javascript/commit/7edeb56057b582a51cb4882f9b72905ac8345911))
+* **deps:** update node.js to v14.17.3 ([1ebaf0e](https://github.com/kunalnagarco/javascript/commit/1ebaf0e6c5d95a15b6e41fe88e33f10d0c1ba910))
+
 ### [0.1.21](https://github.com/kunalnagarco/javascript/compare/v0.1.20...v0.1.21) (2021-07-05)
 
 
