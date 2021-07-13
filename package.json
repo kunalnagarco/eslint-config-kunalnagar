@@ -1,6 +1,6 @@
 {
   "name": "@kunalnagarco/eslint-config",
-  "version": "0.1.24",
+  "version": "0.1.25",
   "description": "An ESLint configuration for use across javascript projects",
   "files": [
     "index.js"
