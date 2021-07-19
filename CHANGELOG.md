@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.28](https://github.com/kunalnagarco/javascript/compare/v0.1.27...v0.1.28) (2021-07-19)
+
+
+### Chores
+
+* **deps:** lock file maintenance ([#94](https://github.com/kunalnagarco/javascript/issues/94)) ([9b0b305](https://github.com/kunalnagarco/javascript/commit/9b0b3050c596c3f4847096fb9b1d0dcf08a443bc))
+
 ### [0.1.27](https://github.com/kunalnagarco/javascript/compare/v0.1.26...v0.1.27) (2021-07-19)
 
 
