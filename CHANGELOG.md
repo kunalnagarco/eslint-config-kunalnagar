@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.33](https://github.com/kunalnagarco/javascript/compare/v0.1.32...v0.1.33) (2021-08-06)
+
+
+### Chores
+
+* **deps:** update dependency lint-staged to v11.1.2 ([a514357](https://github.com/kunalnagarco/javascript/commit/a5143573e56fc351f3f726517d1086f42c2b4c02))
+
 ### [0.1.32](https://github.com/kunalnagarco/javascript/compare/v0.1.31...v0.1.32) (2021-07-29)
 
 
