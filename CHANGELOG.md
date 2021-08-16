@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.37](https://github.com/kunalnagarco/javascript/compare/v0.1.36...v0.1.37) (2021-08-16)
+
+
+### Chores
+
+* **deps:** update dependency semantic-release to v17.4.5 ([ea1cda7](https://github.com/kunalnagarco/javascript/commit/ea1cda7193a61dd18a9cfceffe5dba364d5d5907))
+
 ### [0.1.36](https://github.com/kunalnagarco/javascript/compare/v0.1.35...v0.1.36) (2021-08-11)
 
 
