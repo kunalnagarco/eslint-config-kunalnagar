@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.42](https://github.com/kunalnagarco/javascript/compare/v0.1.41...v0.1.42) (2021-09-04)
+
+
+### Chores
+
+* **deps:** update node.js to v14.17.6 ([9de429a](https://github.com/kunalnagarco/javascript/commit/9de429ab6c17e4568b0581723fe8da7fca4c6498))
+
 ### [0.1.41](https://github.com/kunalnagarco/javascript/compare/v0.1.40...v0.1.41) (2021-09-01)
 
 
