@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.43](https://github.com/kunalnagarco/javascript/compare/v0.1.42...v0.1.43) (2021-09-05)
+
+
+### Chores
+
+* **deps:** update dependency @semantic-release/git to v9.0.1 ([c3f24a1](https://github.com/kunalnagarco/javascript/commit/c3f24a12b6dd893a7685ff751adf36531f7863d2))
+
 ### [0.1.42](https://github.com/kunalnagarco/javascript/compare/v0.1.41...v0.1.42) (2021-09-04)
 
 
