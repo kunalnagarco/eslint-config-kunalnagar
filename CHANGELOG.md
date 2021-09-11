@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.45](https://github.com/kunalnagarco/javascript/compare/v0.1.44...v0.1.45) (2021-09-11)
+
+
+### Chores
+
+* **deps:** update dependency conventional-changelog-conventionalcommits to v4.6.1 ([d3e178c](https://github.com/kunalnagarco/javascript/commit/d3e178c7e654af5b9b95089019c9dd40d74adf3c))
+
 ### [0.1.44](https://github.com/kunalnagarco/javascript/compare/v0.1.43...v0.1.44) (2021-09-06)
 
 
