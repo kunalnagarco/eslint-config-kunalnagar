@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.49](https://github.com/kunalnagarco/javascript/compare/v0.1.48...v0.1.49) (2021-09-25)
+
+
+### Chores
+
+* **deps:** update dependency sort-package-json to v1.52.0 ([9af16e5](https://github.com/kunalnagarco/javascript/commit/9af16e5311ed340210edcae98bd6dcd77babd4a8))
+
 ### [0.1.48](https://github.com/kunalnagarco/javascript/compare/v0.1.47...v0.1.48) (2021-09-23)
 
 
